@@ -1,0 +1,4 @@
+{
+    "jupyter.interactiveWindow.cellMarker.default": "# %%",
+    "jupyter.interactiveWindow.cellMarker.markdownRegex": "^(#\\s*%%\\s*\\[markdown\\]|#\\s*\\<markdowncell\\>)"
+}
